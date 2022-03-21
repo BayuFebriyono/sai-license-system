@@ -50,7 +50,7 @@
               <li class="nav-item"><a class="nav-link pl-3 me-3" href="#docs">Panduan </a></li>
               <li class="nav-item"><a class="nav-link pl-3 me-3" href="#docs">Layanan </a></li>
             </ul>
-            <button class="btn btn-success">Admin Area</button>
+            <a href="/login" class="btn btn-success">Admin Area</a>
           </div>
         </div>
       </nav>
