@@ -1,8 +1,9 @@
 <?php
 
-use App\Http\Controllers\DashboardController;
-use App\Http\Controllers\LoginController;
+
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\LoginController;
+use App\Http\Controllers\DashboardRenewalController;
 
 /*
 |--------------------------------------------------------------------------
@@ -30,4 +31,4 @@ Route::get('/login', function(){
 Route::post('/login', [LoginController::class, 'login']);
 Route::get('/logout', [LoginController::class, 'logout']);
 
-Route::get('/dashboard', [DashboardController::class,'index']);
+Route::get('/dashboard', [DashboardRenewalController::class,'index']);

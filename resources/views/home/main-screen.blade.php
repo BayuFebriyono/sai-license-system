@@ -102,7 +102,7 @@
                 <h3 class="mt-3 lh-base">Renewal License</h3>
                 <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, quas ipsam reiciendis modi aliquam illo ut debitis voluptate blanditiis, totam minima quaerat vero dolore provident?</p>
                 <div class="mt-3">
-                  <a href="#" role="button" class="btn-sm btn-success">Selengkapnya</a>
+                  <a href="/dashboard" role="button" class="btn-sm btn-success">Selengkapnya</a>
                 </div>
               </div>
             </div>

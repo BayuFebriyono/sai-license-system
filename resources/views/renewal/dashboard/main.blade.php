@@ -20,7 +20,7 @@
 
 <body>
     <div id="app">
-       @include('dashboard.navbar');
+       @include('renewal.dashboard.navbar');
         <div id="main">
             <header class="mb-3">
                 <a href="#" class="burger-btn d-block d-xl-none">
@@ -30,11 +30,11 @@
 
             @yield('content')
 
-            <footer>
+            {{-- <footer>
                 <div class="footer clearfix mb-0 text-muted">
                     <p class="text-center">2022 &copy; Training Center</p>
                 </div>
-            </footer>
+            </footer> --}}
         </div>
     </div>
     <script src="{{ asset('mazer/assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js') }}"></script>

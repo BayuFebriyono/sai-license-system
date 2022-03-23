@@ -4,9 +4,9 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class DashboardController extends Controller
+class DashboardRenewalController extends Controller
 {
     public function index(){
-        return view('user.list_peserta');
+        return view('renewal.proses.nik');
     }
 }
