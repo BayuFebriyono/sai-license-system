@@ -31,4 +31,6 @@ Route::get('/login', function(){
 Route::post('/login', [LoginController::class, 'login']);
 Route::get('/logout', [LoginController::class, 'logout']);
 
+//Renewal
 Route::get('/dashboard', [DashboardRenewalController::class,'index']);
+Route::get('/list-peserta-renewal', [DashboardRenewalController::class, 'listPeserta']);

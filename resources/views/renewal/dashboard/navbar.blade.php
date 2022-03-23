@@ -23,15 +23,15 @@
 
                 
                 <li class="sidebar-item">
-                    <a href="index.html" class='sidebar-link'>
-                        <i class="bi bi-grid-fill"></i>
+                    <a href="/list-peserta-renewal" class='sidebar-link'>
+                        <i class="bi bi-people-fill"></i>
                         <span>List Peserta</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item">
                     <a href="index.html" class='sidebar-link'>
-                        <i class="bi bi-grid-fill"></i>
+                        <i class="bi bi-speedometer2"></i>
                         <span>Dashboard</span>
                     </a>
                 </li>
@@ -41,21 +41,21 @@
 
                 <li class="sidebar-item">
                     <a href="index.html" class='sidebar-link'>
-                        <i class="bi bi-grid-fill"></i>
+                        <i class="bi bi-file-earmark-arrow-down-fill"></i>
                         <span>Import</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item">
                     <a href="index.html" class='sidebar-link'>
-                        <i class="bi bi-grid-fill"></i>
+                        <i class="bi bi-file-earmark-arrow-up-fill"></i>
                         <span>Export</span>
                     </a>
                 </li>
 
                 <li class="sidebar-item">
                     <a href="/logout" class='sidebar-link'>
-                        <i class="bi bi-grid-fill"></i>
+                        <i class="bi bi-box-arrow-left"></i>
                         <span>Logout</span>
                     </a>
                 </li>

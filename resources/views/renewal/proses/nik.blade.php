@@ -11,7 +11,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-12">
-                                <p class="mt-5">Masukkan NIK pada field dibawah ini. Atau anda juga bisa
+                                <p class="mt-2">Masukkan NIK pada field dibawah ini. Atau anda juga bisa
                                     menggunakan scanner barcode.
                                 </p>
                             </div>
